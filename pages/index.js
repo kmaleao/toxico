@@ -28,6 +28,7 @@ export default function Home() {
           {' '}
           
         </p>
+        <Image src={'/radioativo.jpg'}width={600}height={300}></Image>
         
 
        
