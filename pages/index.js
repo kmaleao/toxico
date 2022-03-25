@@ -28,10 +28,7 @@ export default function Home() {
           {' '}
           
         </p>
-        <video className={styles.videohome}  controls>
-          <source src='/BJKHRSMNT01EP10.mp4' type='video/mp4'></source>
-        </video>
-        
+        <iframe width="760" height="515" src="https://www.youtube.com/embed/CuyTC8FLICY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
        
 
